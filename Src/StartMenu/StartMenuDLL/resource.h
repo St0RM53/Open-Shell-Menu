@@ -851,6 +851,9 @@
 #define IDS_CTRL_WIN                    3694
 #define IDS_CTRL_WIN_TIP                3695
 
+#define IDS_SEARCH_PRIORITY             3297
+#define IDS_SEARCH_PRIORITY_TIP         3298
+
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED
