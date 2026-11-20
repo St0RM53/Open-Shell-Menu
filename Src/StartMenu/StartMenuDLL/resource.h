@@ -854,6 +854,9 @@
 #define IDS_SEARCH_PRIORITY             3297
 #define IDS_SEARCH_PRIORITY_TIP         3298
 
+#define IDS_CP_VIEW                     3700
+#define IDS_CP_VIEW_TIP                 3701
+
 // Next default values for new objects
 // 
 #ifdef APSTUDIO_INVOKED
